@@ -1,1 +1,1 @@
-1. [Mac](mac/index.md)
+1. [Mac](Mac/index.html)
