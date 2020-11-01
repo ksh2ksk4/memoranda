@@ -1,5 +1,4 @@
----
-title: Mac mini(2018)
+# **Mac mini(2018)**
 ---
 
 # OS
