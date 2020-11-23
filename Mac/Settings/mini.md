@@ -5,7 +5,27 @@
 
 macOS Catalina バージョン 10.15.7
 
+# アプリケーション
+
+## インストール
+
+- [Google Chrome](https://www.google.co.jp/intl/ja/chrome/)
+- [1Password](https://1password.com/jp/)
+- [ESET](https://eset-info.canon-its.jp/)
+- [Google日本語入力](https://www.google.co.jp/ime/)
+- [Firefox](https://www.mozilla.org/ja/firefox/)
+- [ForkLift](https://binarynights.com/)
+- [Googleのバックアップと同期](https://www.google.com/intl/ja_ALL/drive/download/backup-and-sync/)
+- [FUSE for macOS](https://osxfuse.github.io/)
+- [VeraCrypt](https://www.veracrypt.fr/en/Home.html)
+- [AppCleaner](https://freemacsoft.net/appcleaner/)
+
 # システム環境設定
+
+## Apple ID
+
+- iCloudを使用するこのMac上のアプリケーション
+  - すべてアンチェック
 
 ## 一般
 
@@ -43,6 +63,23 @@ macOS Catalina バージョン 10.15.7
 - 最近使ったアプリケーションをDockに表示
   - アンチェック
 
+## アクセシビリティ
+
+### ディスプレイ
+
+#### カーソル
+
+- カーソルのサイズ
+  - 最大に変更
+
+### ポインタコントロール
+
+#### マウスとトラックパッド
+
+- トラックパッドオプション
+  - ドラッグを有効にする
+    - チェックして、 `3本指のドラッグ` を選択
+
 ## セキュリティとプライバシー
 
 ### 一般
@@ -54,21 +91,33 @@ macOS Catalina バージョン 10.15.7
 
 **FileVaultは有効にしない。**
 
-## ディスプレイ
+https://applech2.com/archives/20200223-mac-mini-2018-with-filevault-boot-black-screen.html
 
-### ディスプレイ
+### プライバシー
 
-- 使用可能な場合はメニューバーにミラーリングオプションを表示
-  - アンチェック
+#### ファイルとフォルダ
 
-## 省エネルギー
+アプリがどんどん追加されていく・・・。
 
-- ディスプレイをオフにするまでの時間
-  - 15分
-- ネットワークアクセスによるスリープ解除
-  - アンチェック
-- Power Napを有効にする
-  - アンチェック
+## Bluetooth
+
+- メニューバーにBluetoothを表示
+  - チェック
+
+## サウンド
+
+### サウンドエフェクト
+
+- 通知音を選択
+  - `Submarine` に変更
+- 通知音の音量
+  - 適度に調整
+- 音量を変更するときにフィードバックを再生
+  - チェック
+- 主音量
+  - 適度に調整
+- メニューバーに音量を表示
+  - チェック
 
 ## キーボード
 
@@ -78,10 +127,6 @@ macOS Catalina バージョン 10.15.7
   - 最速に変更
 - リピート入力認識までの時間
   - 最短に変更
-
-1. 修飾キー
-   - Caps Lock (⇪) キー
-     - `^ Control` に変更
 
 ### ユーザ辞書
 
@@ -106,6 +151,8 @@ macOS Catalina バージョン 10.15.7
   - U.S.
   - ひらがな(Google)
 
+## トラックパッド
+
 ## マウス
 
 - スクロールの方向: ナチュラル
@@ -115,43 +162,23 @@ macOS Catalina バージョン 10.15.7
 - スクロールの速さ
   - 適度に調整
 
-## サウンド
+## ディスプレイ
 
-### サウンドエフェクト
+### ディスプレイ
 
-- 通知音を選択
-  - `Submarine` に変更
-- 通知音の音量
+- 解像度
   - 適度に調整
-- 音量を変更するときにフィードバックを再生
-  - チェック
-- 主音量
-  - 適度に調整
-- メニューバーに音量を表示
-  - チェック
+- 使用可能な場合はメニューバーにミラーリングオプションを表示
+  - アンチェック
 
-## iCloud
+## 省エネルギー
 
-サインインしてから `iCloud Drive` のみをチェック。
-
-## ネットワーク
-
-- Wi-Fi
-  - Wi-Fiをオフにする
-  - メニューバーにWi-Fiの状況を表示
-    - アンチェック
-
-## Bluetooth
-
-Bluetoothをオフにする。
-
-- メニューバーにBluetoothを表示
-  - チェック
-
-## 共有
-
-- コンピュータ名
-  - baobab
+- ディスプレイをオフにするまでの時間
+  - 15分
+- ネットワークアクセスによるスリープ解除
+  - アンチェック
+- Power Napを有効にする
+  - アンチェック
 
 ## 日付と時刻
 
@@ -162,39 +189,12 @@ Bluetoothをオフにする。
 - 日付を表示
   - チェック
 
-## アクセシビリティ
+## 共有
 
-### ディスプレイ
+- コンピュータ名
+  - baobab
 
-- カーソルのサイズ
-  - 適度に調整
-
-# アプリケーション
-
-## インストール
-
-- [Google Chrome](https://www.google.co.jp/intl/ja/chrome/)
-- [ESET](https://eset-info.canon-its.jp/)
-- [1Password](https://1password.com/jp/)
-- [Google日本語入力](https://www.google.co.jp/ime/)
-- [Firefox](https://www.mozilla.org/ja/firefox/)
-- [ForkLift](https://binarynights.com/)
-- [Googleのバックアップと同期](https://www.google.com/intl/ja_ALL/drive/download/backup-and-sync/)
-- [FUSE for macOS](https://osxfuse.github.io/)
-- [VeraCrypt](https://www.veracrypt.fr/en/Home.html)
-- [AppCleaner](https://freemacsoft.net/appcleaner/)
-- [DMM Player v2](http://help.dmm.com/-/detail/=/qid=46524/)
-- [VLC](http://www.videolan.org/)
-- [Kindle for Mac](https://www.amazon.co.jp/gp/digital/fiona/kcp-landing-page)
-- [Docker](https://docs.docker.com/docker-for-mac/)
-
-## アンインストール
-
-- GarageBand
-- iMovie
-- Keynote
-- Numbers
-- Pages
+# アプリ設定
 
 ## Dock
 
