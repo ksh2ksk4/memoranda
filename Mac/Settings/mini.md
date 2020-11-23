@@ -251,7 +251,7 @@ https://applech2.com/archives/20200223-mac-mini-2018-with-filevault-boot-black-s
 1. 表示オプション
    1. 任意のフォルダで表示オプションを表示(`command` + `J`)
    2. 下記の設定に変更
-      file:../../images/Mac/settings/mini/001.png
+      file:../images/Settings/mini/001.png
    3. Finderのタブで表示項目を並べ替える
       - 名前
       - サイズ
