@@ -1,3 +1,6 @@
-1. [Settings](Settings/index.html)
-2. [Tips](Tips.html)
-3. [HomeBrew](HomeBrew.html)
+# **Mac**
+---
+
+1. [Settings](Settings/index.md)
+2. [Tips](Tips.md)
+3. [Homebrew](Homebrew.md)
