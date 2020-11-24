@@ -1,4 +1,4 @@
-# **Mac/Settings**
+# **Settings**
 ---
 
 1. [MacBook Air](Air.md)
