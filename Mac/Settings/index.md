@@ -1,2 +1,5 @@
-1. [MacBook Air](Air.html)
-2. [Mac mini](mini.html)
+# **Mac/Settings**
+---
+
+1. [MacBook Air](Air.md)
+2. [Mac mini](mini.md)
